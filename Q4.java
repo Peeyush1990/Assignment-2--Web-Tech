@@ -7,6 +7,6 @@ public class Q4 {
         years++;
         population+=population*rate;
       } 
-      System.out.print("Theer population will exceeed 150000 after "+years+" years"); 
+      System.out.print("The population will exceeed 150000 after "+years+" years"); 
     }
 }
